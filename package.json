@@ -1,0 +1,17 @@
+{
+  "name": "@jsbox/beyondui",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "create": "./index.js"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "commander": "^12.1.0",
+    "shadcn": "^1.0.0"
+  }
+}
